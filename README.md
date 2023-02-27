@@ -7,4 +7,4 @@ Descripción: este repositorio fue creado con fines académicos. Contiene el pro
 de la cursada 2022-2023.
 
 ```
-El proyecto se ejecuta con el comando "nodemon app.js". 
+### El proyecto se ejecuta con el comando "nodemon app.js". 
