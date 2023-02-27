@@ -1,0 +1,31 @@
+div {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+aside,legend, h1 {
+    background-color: #F6F0EF;
+}
+
+img {
+    left: px;
+    height: 290px;
+    vertical-align: middle;
+}
+
+button  {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        background-color: #fff;
+        border: 2px solid var(--primary-color);
+        border-radius: 5px;
+        font-size: 1rem;
+        font-weight: var(--bold-font);
+        transition: var(--transition);
+}
+
