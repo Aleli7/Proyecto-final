@@ -1,4 +1,4 @@
-# Curso de programación: Primeros pasos del Front-End
+# Primeros pasos del Front-End
 
 
 > ##### Autor: Alelí Ida Schäffer   
